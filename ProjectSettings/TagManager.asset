@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - sujeira
+  - comida
+  - deteccao
+  - deteccao 2
+  - npc
+  - 0f
+  - 1f
+  - limitenpc
+  - stealthseguro
+  - prisao andar 0
+  - prisao andar 1
+  - enemy
+  - memedio
+  - deteccao_enemy
+  - cela_lucas
+  - ramon
+  - fim
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Deteccao
+  - Water
+  - UI
+  - CombatCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
